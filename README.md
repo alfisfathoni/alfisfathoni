@@ -42,8 +42,8 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=alfisfathoni&theme=tokyonight&hide_border=true" alt="Alfis's GitHub Streak" width="49%" />
-  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=alfisfathoni&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=alfisfathoni&theme=tokyonight&hide_border=true" alt="Alfis's GitHub Streak" width="51%" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=alfisfathoni&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="46.5%" />
 </p>
 
 ---
