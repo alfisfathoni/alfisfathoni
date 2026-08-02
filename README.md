@@ -41,18 +41,10 @@
 
 ### 📊 GitHub Stats
 
-<samp>
-  <table width="100%">
-    <tr>
-      <td align="center" width="50%" valign="top">
-        <imgsrc="https://github-readme-streak-stats.herokuapp.com/?user=alfisfathoni&theme=tokyonight&hide_border=true" alt="Alfis's GitHub Streak" height="195px"/>
-      </td>
-      <td align="center" width="50%" valign="top">
-        <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=alfisfathoni&layout=compact&theme=tokyonight&hide_border=true&card_width=380" alt="Top Languages" height="195px"/>
-      </td>
-    </tr>
-  </table>
-</samp>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=alfisfathoni&theme=tokyonight&hide_border=true" alt="Alfis's GitHub Streak" width="49%" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=alfisfathoni&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%" />
+</p>
 
 ---
 
