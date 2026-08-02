@@ -14,7 +14,7 @@
 ### 🚀 About Me
 * 🎓 **Undergraduate IT Student** at BINUS University.
 * 💡 Preparing for my **Enrichment Program (Internship Track)** and eager to contribute to real-world projects.
-* 🌐 Focused on **Full-Stack Web Development** & **Mobile App Development**.
+* 🌐 Focused on **Frontend and Backend development** & **Mobile App Development**.
 * 🛠️ Passionate about building clean, scalable applications and exploring modern microservices architectures.
 
 ---
@@ -42,8 +42,8 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=alfisfathoni&show_icons=true&theme=tokyonight&hide_border=true" alt="Alfis's GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alfisfathoni&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=alfisfathoni&theme=tokyonight&hide_border=true" alt="Alfis's GitHub Streak" width="49%" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=alfisfathoni&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%" />
 </p>
 
 ---
