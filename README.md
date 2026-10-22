@@ -16,6 +16,7 @@
 * 💡 Preparing for my **Enrichment Program (Internship Track)** and eager to contribute to real-world projects.
 * 🌐 Focused on **Frontend and Backend development** & **Mobile App Development**.
 * 🛠️ Passionate about building clean, scalable applications and exploring modern microservices architectures.
+* 
 
 ---
 
